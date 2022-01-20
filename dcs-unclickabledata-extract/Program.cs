@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 /* Similar to https://github.com/charlestytler/dcs-clickabledata-extract, 
  * but will extract the args from 
  * ...\aircraft\<Aircraft>\Cockpit\Scripts\mainpanel_init.lua instead.
- * The export format will paste into DCS-ExportScript luas. 
+ * The export format will paste into DCS-ExportScript luas.
  * 
  * This only works if the arg has this format:
  * Canopy.arg_number 				= 26
@@ -17,6 +17,8 @@ using System.Text.RegularExpressions;
  * The exe takes the file and parses it into a specific format
  * the program then prints the info
  * the user copy and pastes it into their application (DCS-ExportScript lua)
+ * User will have to manually check for duplicates from clickabledata-extract
+ *  good news is that most I have seen in 1 module is 2 duplicated args.
  */
 
 namespace dcs_unclickabledata_extract
