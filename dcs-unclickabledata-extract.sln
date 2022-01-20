@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcs-unclickabledata-extract", "dcs-unclickabledata-extract\dcs-unclickabledata-extract.csproj", "{388D9033-CC7F-458D-96BF-C7CDC574E198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388D9033-CC7F-458D-96BF-C7CDC574E198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388D9033-CC7F-458D-96BF-C7CDC574E198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388D9033-CC7F-458D-96BF-C7CDC574E198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388D9033-CC7F-458D-96BF-C7CDC574E198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48439E7-1F75-4324-AABA-CBA24100C4F4}
+	EndGlobalSection
+EndGlobal
