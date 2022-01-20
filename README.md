@@ -9,6 +9,6 @@ Download the files by downloading the zip from the "Releases" tab. Extract/Unzip
 
 ### How To Use
 1. Navigate to your perfered module's mainpanel_init.lua file.
-    - Example: C:\Users\<USERNAME>\Saved Games\DCS\mods\aircraft\UH-60L\Cockpit\Scripts\mainpanel_init.lua
+    - Example: C:\Users\<USERNAME>\Saved Games\DCS\mods\aircraft\A-4E-C\Cockpit\Scripts\mainpanel_init.lua
 2. Drag 'mainpanel_init.lua' onto 'dcs-unclickabledata-extract.exe'.
 3. A console will show the results of the extract. You can copy/paste directly from the console to your DCS-ExportScript file.
