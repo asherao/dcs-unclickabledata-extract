@@ -32,7 +32,7 @@ namespace dcs_unclickabledata_extract
 
             //we will be adding these to the discovered args to make the putput DCS-ExportScript friendly
             string startbracket = " [";
-            string endbracket = "] = \"%0.4f\", --";
+            string endbracket = "] = \"%0.4f\", -- ";
 
             int counter = 0; //a counter for counting the number of args that was found
             foreach (string line in importedFileContents)//this will evaluate one line at a time
